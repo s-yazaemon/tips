@@ -1,4 +1,4 @@
-# Yazawa's Trial of MkDocs
+# Trial of MkDocs
 ## test1
 2020-04-29<BR>
 令和２年４月吉日
@@ -8,7 +8,7 @@
     - ggg
     - hhh
 1. あいうえお
-1. いろはにほへと
+1. いろは
 ## test3
 ### code1
 `python`
